@@ -1,0 +1,1 @@
+{"class_inherit_list": [], "Vars": [{"var_description": "A textual representation of the pointer, suitable for debugging.", "var_type": "String", "var_name": "debugDescription"}], "class_name": "CVaListPointer", "interface_list": ["CustomDebugStringConvertible"], "subclass_list": [], "class_description": "", "Methods": [], "package_name": "swift"}

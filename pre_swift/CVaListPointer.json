@@ -1,0 +1,1 @@
+{"package_name": ["swift"], "class_name": ["c", "va", "list", "pointer"], "class_description": [], "class_inherit_list": [], "interface_list": [["custom", "debug", "string", "convert"]], "subclass_list": [], "Methods": [], "Vars": [{"var_name": ["debug", "descript"], "var_type": ["string"], "var_description": ["textual", "represent", "pointer", "suitabl", "debug"]}]}
