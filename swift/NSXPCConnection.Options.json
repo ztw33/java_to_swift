@@ -1,0 +1,1 @@
+{"package_name": "foundation", "interface_list": ["OptionSet"], "class_inherit_list": [], "Methods": [], "Vars": [{"var_type": "NSXPCConnection.Options", "var_description": "", "var_name": "privileged"}], "subclass_list": [], "class_description": "", "class_name": "NSXPCConnection.Options"}

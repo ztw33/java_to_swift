@@ -1,0 +1,1 @@
+{"subclass_list": [], "Methods": [], "Vars": [], "class_name": "NSLocale.LanguageDirection", "class_inherit_list": [], "interface_list": [], "class_description": "Use these constants with the methods lineDirection(forLanguage:) and characterDirection(forLanguage:).\n", "package_name": "foundation"}

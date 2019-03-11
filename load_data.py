@@ -6,6 +6,7 @@ Created on Thu Feb 28 20:53:28 2019
 """
 import json
 import class_info
+import os
 
 
 def load_data(filename):
@@ -49,3 +50,15 @@ def load_data(filename):
 
         obj = class_info.Class_info(package_name, class_name, class_description, class_inherit_list, subclass_list, interface_list, Methods, Vars)
         return obj
+
+
+def get_corpus(language):
+    corpus = []
+    folder = "pre_"+language  # 文件夹目录
+    filenames = os.listdir(folder)  # 得到文件夹下的所有文件名称
+    for filename in filenames:  # 遍历文件夹
+        if not os.path.isdir(filename):
+            obj = load_data(folder + "/" + filename)
+            result = ' '.join(obj.class_description + obj.class_name)
+            corpus.append(result)
+    return corpus

@@ -1,0 +1,1 @@
+{"package_name": "foundation", "interface_list": ["CVarArg", "Equatable", "Hashable", "NSCopying", "NSSecureCoding"], "class_inherit_list": ["NSObject"], "Methods": [], "Vars": [], "subclass_list": [], "class_description": "NSFileSecurity contains no methods of its own. Instead, it is transparently bridged to CFFileSecurity.\n", "class_name": "NSFileSecurity"}

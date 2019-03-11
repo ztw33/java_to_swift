@@ -1,0 +1,1 @@
+{"package_name": ["foundat"], "class_name": ["data", "iter"], "class_description": [], "class_inherit_list": [], "interface_list": [], "subclass_list": [], "Methods": [{"class_name": ["data", "iter"], "method_name": ["next"], "method_description": [], "params": [], "return_value": {"return_type": [["u", "int8"]], "return_description": [], "return_name": [[]]}}], "Vars": []}

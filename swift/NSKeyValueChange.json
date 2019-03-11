@@ -1,0 +1,1 @@
+{"package_name": "foundation", "interface_list": [], "class_inherit_list": [], "Methods": [], "Vars": [], "subclass_list": [], "class_description": "These constants are returned as the value for a kindKey key in the change dictionary passed to observeValue(forKeyPath:of:change:context:) indicating the type of change made.\n", "class_name": "NSKeyValueChange"}

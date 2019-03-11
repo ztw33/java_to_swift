@@ -1,0 +1,537 @@
+NSString: 5
+[string, class, charact, unicod, method]
+
+Character: 4
+[string, charact, unicod, valu]
+
+NSMutableAttributedString: 4
+[string, class, charact, method]
+
+String: 4
+[string, charact, unicod, code]
+
+NSClassDescription: 3
+[class, code, implement]
+
+Scanner: 3
+[string, class, charact]
+
+String.UnicodeScalarView: 3
+[string, unicod, valu]
+
+String.UTF8View: 3
+[string, charact, code]
+
+ValueTransformer: 3
+[string, charact, valu]
+
+Character.UnicodeScalarView.Index: 2
+[charact, unicod]
+
+Character.UnicodeScalarView.Iterator: 2
+[charact, unicod]
+
+Character.UnicodeScalarView: 2
+[charact, unicod]
+
+Comparable: 2
+[valu, implement]
+
+DateComponentsFormatter: 2
+[string, class]
+
+ExpressibleByExtendedGraphemeClusterLiteral: 2
+[charact, unicod]
+
+ExpressibleByUnicodeScalarLiteral: 2
+[string, unicod]
+
+ISO8601DateFormatter: 2
+[string, class]
+
+LosslessStringConvertible: 2
+[string, valu]
+
+NSAttributedString.DocumentType: 2
+[string, valu]
+
+NSAttributedString: 2
+[string, charact]
+
+NSCharacterSet: 2
+[class, charact]
+
+NSLock: 2
+[class, implement]
+
+NSMutableString: 2
+[string, charact]
+
+NSValue: 2
+[class, method]
+
+StaticString: 2
+[string, code]
+
+String.UnicodeScalarView.Iterator: 2
+[string, unicod]
+
+String.UTF16View: 2
+[string, code]
+
+StringTransform: 2
+[string, method]
+
+Unicode.Scalar: 2
+[string, unicod]
+
+UnicodeDecodingResult: 2
+[unicod, valu]
+
+BinaryInteger: 1
+[valu]
+
+Bool: 1
+[valu]
+
+CharacterSet: 1
+[charact]
+
+CocoaError.Code: 1
+[code]
+
+CodingKey: 1
+[code]
+
+CodingUserInfoKey: 1
+[code]
+
+CollectionOfOne: 1
+[concaten]
+
+CustomDebugStringConvertible: 1
+[implement]
+
+CustomPlaygroundDisplayConvertible: 1
+[implement]
+
+CustomStringConvertible: 1
+[string]
+
+Date: 1
+[valu]
+
+DateIntervalFormatter: 1
+[string]
+
+Dictionary: 1
+[valu]
+
+Dictionary.Values: 1
+[valu]
+
+Equatable: 1
+[valu]
+
+ExpressibleByBooleanLiteral: 1
+[valu]
+
+ExpressibleByStringLiteral: 1
+[string]
+
+FileAttributeKey: 1
+[method]
+
+FileAttributeType: 1
+[string]
+
+FileManager.DirectoryEnumerationOptions: 1
+[method]
+
+FileManager.SearchPathDirectory: 1
+[method]
+
+FileProtectionType: 1
+[valu]
+
+FixedWidthInteger: 1
+[method]
+
+FloatingPoint: 1
+[valu]
+
+Hashable: 1
+[implement]
+
+Hasher: 1
+[valu]
+
+HTTPCookieStorage: 1
+[method]
+
+HTTPURLResponse: 1
+[class]
+
+IndexSet: 1
+[valu]
+
+IteratorProtocol: 1
+[method]
+
+ManagedBufferPointer: 1
+[class]
+
+Mirror.AncestorRepresentation: 1
+[class]
+
+MutableCollection: 1
+[valu]
+
+NetService.ErrorCode: 1
+[code]
+
+NotificationQueue.NotificationCoalescing: 1
+[method]
+
+NotificationQueue.PostingStyle: 1
+[method]
+
+NSAppleScript: 1
+[method]
+
+NSArray: 1
+[implement]
+
+NSAssertionHandler: 1
+[method]
+
+NSAttributedString.DocumentAttributeKey: 1
+[string]
+
+NSAttributedString.DocumentReadingOptionKey: 1
+[string]
+
+NSAttributedString.EnumerationOptions: 1
+[string]
+
+NSAttributedString.Key: 1
+[string]
+
+NSAttributedString.SpellingState: 1
+[string]
+
+NSAttributedString.TextEffectStyle: 1
+[string]
+
+NSAttributedString.TextLayoutSectionKey: 1
+[string]
+
+NSCoder: 1
+[class]
+
+NSData.SearchOptions: 1
+[method]
+
+NSDate: 1
+[method]
+
+NSDictionary: 1
+[class]
+
+NSDistributedLock: 1
+[method]
+
+NSFileAccessIntent: 1
+[class]
+
+NSFileSecurity: 1
+[method]
+
+NSItemProvider.ErrorCode: 1
+[code]
+
+NSKeyedArchiver: 1
+[valu]
+
+NSKeyedUnarchiver: 1
+[valu]
+
+NSKeyValueChange: 1
+[valu]
+
+NSKeyValueChangeKey: 1
+[valu]
+
+NSKeyValueObservation: 1
+[valu]
+
+NSKeyValueObservedChange: 1
+[valu]
+
+NSKeyValueObservingOptions: 1
+[valu]
+
+NSKeyValueOperator: 1
+[valu]
+
+NSKeyValueSetMutationKind: 1
+[method]
+
+NSLinguisticTag: 1
+[valu]
+
+NSLinguisticTaggerUnit: 1
+[method]
+
+NSLocale.Key: 1
+[method]
+
+NSLocale.LanguageDirection: 1
+[method]
+
+NSMetadataItem: 1
+[valu]
+
+NSMetadataQuery: 1
+[valu]
+
+NSMetadataQueryAttributeValueTuple: 1
+[valu]
+
+NSMutableArray: 1
+[class]
+
+NSMutableCharacterSet: 1
+[charact]
+
+NSMutableIndexSet: 1
+[valu]
+
+NSMutableSet: 1
+[class]
+
+NSMutableURLRequest: 1
+[class]
+
+NSNameSpecifier: 1
+[method]
+
+NSNumber: 1
+[valu]
+
+NSPointerArray: 1
+[valu]
+
+NSPointerFunctions.Options: 1
+[valu]
+
+NSProxy: 1
+[implement]
+
+NSRegularExpression: 1
+[charact]
+
+NSScriptClassDescription: 1
+[class]
+
+NSScriptCoercionHandler: 1
+[class]
+
+NSSetCommand: 1
+[valu]
+
+NSSpecifierTest: 1
+[method]
+
+NSString.CompareOptions: 1
+[string]
+
+NSString.DrawingOptions: 1
+[string]
+
+NSTextWritingDirection: 1
+[unicod]
+
+NSURLComponents: 1
+[class]
+
+NSURLDownload: 1
+[method]
+
+NSUserAppleScriptTask: 1
+[class]
+
+NSUserAutomatorTask: 1
+[class]
+
+NSUserUnixTask: 1
+[class]
+
+NSUUID: 1
+[valu]
+
+NSValueTransformerName: 1
+[valu]
+
+NSWritingDirectionFormatType: 1
+[unicod]
+
+NSXPCConnection: 1
+[class]
+
+Numeric: 1
+[method]
+
+Operation: 1
+[method]
+
+Optional: 1
+[valu]
+
+Range: 1
+[valu]
+
+RangeReplaceableCollection: 1
+[method]
+
+RawRepresentable: 1
+[valu]
+
+Set: 1
+[method]
+
+SignedNumeric: 1
+[valu]
+
+SingleValueDecodingContainer: 1
+[valu]
+
+SingleValueEncodingContainer: 1
+[valu]
+
+SocketPort: 1
+[class]
+
+StreamNetworkServiceTypeValue: 1
+[valu]
+
+StreamSocketSecurityLevel: 1
+[valu]
+
+Strideable: 1
+[implement]
+
+String.Encoding: 1
+[string]
+
+String.Index: 1
+[string]
+
+String.UTF16View.Indices: 1
+[string]
+
+String.UTF8View.Iterator: 1
+[string]
+
+StringEncodingDetectionOptionsKey: 1
+[string]
+
+Substring: 1
+[string]
+
+Substring.UnicodeScalarView: 1
+[unicod]
+
+TimeZone: 1
+[valu]
+
+UnboundedRange_: 1
+[string]
+
+Unicode.ASCII: 1
+[unicod]
+
+Unicode.ASCII.Parser: 1
+[unicod]
+
+Unicode: 1
+[unicod]
+
+Unicode.ParseResult: 1
+[unicod]
+
+Unicode.Scalar.UTF16View: 1
+[unicod]
+
+Unicode.UTF16.ForwardParser: 1
+[unicod]
+
+Unicode.UTF16: 1
+[unicod]
+
+Unicode.UTF16.ReverseParser: 1
+[unicod]
+
+Unicode.UTF32: 1
+[unicod]
+
+Unicode.UTF32.Parser: 1
+[unicod]
+
+Unicode.UTF8.ForwardParser: 1
+[unicod]
+
+Unicode.UTF8: 1
+[unicod]
+
+Unicode.UTF8.ReverseParser: 1
+[unicod]
+
+UnitConverterLinear: 1
+[valu]
+
+URLCache: 1
+[method]
+
+URLCredentialStorage: 1
+[method]
+
+URLError.Code: 1
+[code]
+
+URLError: 1
+[code]
+
+URLFileProtection: 1
+[valu]
+
+URLProtocol: 1
+[class]
+
+URLResourceValues: 1
+[valu]
+
+URLSession: 1
+[method]
+
+URLSessionTask: 1
+[method]
+
+URLUbiquitousItemDownloadingStatus: 1
+[valu]
+
+XMLDocument.ContentKind: 1
+[valu]
+
+XMLDocument: 1
+[method]
+
+XMLDTDNode: 1
+[valu]
+
+XMLNode: 1
+[class]
+
+XMLParser.ErrorCode: 1
+[code]
+

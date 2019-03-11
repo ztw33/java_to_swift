@@ -1,0 +1,237 @@
+NSData: 3
+[file, write, data]
+
+OutputStream: 3
+[stream, write, data]
+
+FileWrapper.WritingOptions: 2
+[file, write]
+
+InputStream: 2
+[stream, data]
+
+NSArchiver: 2
+[file, data]
+
+NSData.WritingOptions: 2
+[write, data]
+
+NSFileCoordinator: 2
+[file, write]
+
+NSFileCoordinator.WritingOptions: 2
+[file, write]
+
+NSUbiquitousKeyValueStore: 2
+[write, data]
+
+Stream: 2
+[stream, data]
+
+URL: 2
+[file, data]
+
+Bundle: 1
+[file]
+
+Data.Deallocator: 1
+[data]
+
+Data.Iterator: 1
+[data]
+
+Data: 1
+[data]
+
+FileAttributeKey: 1
+[file]
+
+FileAttributeType: 1
+[file]
+
+FileHandle: 1
+[file]
+
+FileManager.DirectoryEnumerationOptions: 1
+[file]
+
+FileManager.DirectoryEnumerator: 1
+[file]
+
+FileManager.ItemReplacementOptions: 1
+[file]
+
+FileManager: 1
+[file]
+
+FileManager.SearchPathDirectory: 1
+[file]
+
+FileManager.SearchPathDomainMask: 1
+[file]
+
+FileManager.UnmountOptions: 1
+[file]
+
+FileManager.URLRelationship: 1
+[file]
+
+FileManager.VolumeEnumerationOptions: 1
+[file]
+
+FileProtectionType: 1
+[file]
+
+FileWrapper: 1
+[file]
+
+FileWrapper.ReadingOptions: 1
+[file]
+
+Int: 1
+[platform]
+
+JSONDecoder.DataDecodingStrategy: 1
+[data]
+
+JSONEncoder.DataEncodingStrategy: 1
+[data]
+
+JSONEncoder.OutputFormatting: 1
+[output]
+
+JSONSerialization.WritingOptions: 1
+[write]
+
+NSAppleEventDescriptor: 1
+[data]
+
+NSData.Base64DecodingOptions: 1
+[data]
+
+NSData.Base64EncodingOptions: 1
+[data]
+
+NSData.ReadingOptions: 1
+[data]
+
+NSData.SearchOptions: 1
+[data]
+
+NSDistributedLock: 1
+[file]
+
+NSFileAccessIntent: 1
+[file]
+
+NSFileCoordinator.ReadingOptions: 1
+[file]
+
+NSFileProviderService: 1
+[file]
+
+NSFileSecurity: 1
+[file]
+
+NSFileVersion.AddingOptions: 1
+[file]
+
+NSFileVersion: 1
+[file]
+
+NSFileVersion.ReplacingOptions: 1
+[file]
+
+NSItemProvider: 1
+[data]
+
+NSItemProviderFileOptions: 1
+[file]
+
+NSMutableData: 1
+[data]
+
+NSSecureUnarchiveFromDataTransformer: 1
+[data]
+
+NSURL: 1
+[file]
+
+NSURLRequest: 1
+[data]
+
+NSUserAppleScriptTask: 1
+[output]
+
+NSUserAutomatorTask: 1
+[output]
+
+NSUserUnixTask: 1
+[output]
+
+NSValue: 1
+[data]
+
+Pipe: 1
+[data]
+
+Progress.FileOperationKind: 1
+[file]
+
+Stream.Event: 1
+[stream]
+
+Stream.PropertyKey: 1
+[stream]
+
+Stream.Status: 1
+[stream]
+
+StreamNetworkServiceTypeValue: 1
+[stream]
+
+StreamSocketSecurityLevel: 1
+[stream]
+
+StreamSOCKSProxyConfiguration: 1
+[stream]
+
+StreamSOCKSProxyVersion: 1
+[stream]
+
+SystemRandomNumberGenerator: 1
+[platform]
+
+TextOutputStream: 1
+[output]
+
+TextOutputStreamable: 1
+[output]
+
+UInt: 1
+[platform]
+
+URLFileProtection: 1
+[file]
+
+URLFileResourceType: 1
+[file]
+
+URLRequest: 1
+[data]
+
+URLResourceValues: 1
+[file]
+
+URLResponse: 1
+[data]
+
+URLSession: 1
+[data]
+
+UserDefaults: 1
+[file]
+
+XMLNode.Options: 1
+[output]
+

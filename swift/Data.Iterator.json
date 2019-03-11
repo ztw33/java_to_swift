@@ -1,0 +1,1 @@
+{"package_name": "foundation", "interface_list": [], "class_inherit_list": [], "Methods": [{"return_value": {"return_type": ["UInt8"], "return_name": [""], "return_description": []}, "method_name": "next", "class_name": "Data.Iterator", "method_description": "", "params": []}], "Vars": [], "subclass_list": [], "class_description": "", "class_name": "Data.Iterator"}

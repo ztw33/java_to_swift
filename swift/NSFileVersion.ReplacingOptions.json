@@ -1,0 +1,1 @@
+{"package_name": "foundation", "interface_list": ["OptionSet"], "class_inherit_list": [], "Methods": [], "Vars": [{"var_type": "NSFileVersion.ReplacingOptions", "var_description": "", "var_name": "byMoving"}], "subclass_list": [], "class_description": "", "class_name": "NSFileVersion.ReplacingOptions"}

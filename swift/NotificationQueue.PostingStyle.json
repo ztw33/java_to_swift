@@ -1,0 +1,1 @@
+{"package_name": "foundation", "interface_list": [], "class_inherit_list": [], "Methods": [], "Vars": [], "subclass_list": [], "class_description": "These constants are used by the enqueue(_:postingStyle:) and enqueue(_:postingStyle:coalesceMask:forModes:) methods.\n", "class_name": "NotificationQueue.PostingStyle"}

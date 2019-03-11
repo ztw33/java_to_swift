@@ -1,0 +1,1 @@
+{"package_name": "foundation", "interface_list": [], "class_inherit_list": [], "Methods": [], "Vars": [{"var_type": "UInt32", "var_description": "", "var_name": "v"}], "subclass_list": [], "class_description": "The fields of an NSSwappedFloat are private.\n", "class_name": "NSSwappedFloat"}

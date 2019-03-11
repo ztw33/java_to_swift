@@ -1,0 +1,216 @@
+InputStream: 3
+[stream, read, byte]
+
+FileWrapper: 2
+[file, system]
+
+FileWrapper.ReadingOptions: 2
+[file, read]
+
+NSDistributedLock: 2
+[file, system]
+
+NSFileCoordinator: 2
+[file, read]
+
+NSFileCoordinator.ReadingOptions: 2
+[file, read]
+
+OutputStream: 2
+[stream, byte]
+
+URLResourceValues: 2
+[file, system]
+
+Bundle: 1
+[file]
+
+ByteCountFormatter.CountStyle: 1
+[byte]
+
+ByteCountFormatter: 1
+[byte]
+
+ByteCountFormatter.Units: 1
+[byte]
+
+Calendar.Component: 1
+[input]
+
+Data: 1
+[byte]
+
+FileAttributeKey: 1
+[file]
+
+FileAttributeType: 1
+[file]
+
+FileHandle: 1
+[file]
+
+FileManager.DirectoryEnumerationOptions: 1
+[file]
+
+FileManager.DirectoryEnumerator: 1
+[file]
+
+FileManager.ItemReplacementOptions: 1
+[file]
+
+FileManager: 1
+[file]
+
+FileManager.SearchPathDirectory: 1
+[file]
+
+FileManager.SearchPathDomainMask: 1
+[file]
+
+FileManager.UnmountOptions: 1
+[file]
+
+FileManager.URLRelationship: 1
+[file]
+
+FileManager.VolumeEnumerationOptions: 1
+[file]
+
+FileProtectionType: 1
+[file]
+
+FileWrapper.WritingOptions: 1
+[file]
+
+Hasher: 1
+[byte]
+
+Host: 1
+[host]
+
+JSONSerialization.ReadingOptions: 1
+[read]
+
+NSArchiver: 1
+[file]
+
+NSBundleResourceRequest: 1
+[system]
+
+NSData: 1
+[file]
+
+NSData.ReadingOptions: 1
+[read]
+
+NSExtensionContext: 1
+[host]
+
+NSFileAccessIntent: 1
+[file]
+
+NSFileCoordinator.WritingOptions: 1
+[file]
+
+NSFileProviderService: 1
+[file]
+
+NSFileSecurity: 1
+[file]
+
+NSFileVersion.AddingOptions: 1
+[file]
+
+NSFileVersion: 1
+[file]
+
+NSFileVersion.ReplacingOptions: 1
+[file]
+
+NSItemProviderFileOptions: 1
+[file]
+
+NSRegularExpression: 1
+[input]
+
+NSTimeZone: 1
+[system]
+
+NSURL: 1
+[file]
+
+NSURLRequest.NetworkServiceType: 1
+[system]
+
+NSUserAppleScriptTask: 1
+[input]
+
+NSUserAutomatorTask: 1
+[input]
+
+NSUserUnixTask: 1
+[input]
+
+OperatingSystemVersion: 1
+[system]
+
+Process: 1
+[environ]
+
+ProcessInfo: 1
+[system]
+
+Progress.FileOperationKind: 1
+[file]
+
+Stream.Event: 1
+[stream]
+
+Stream: 1
+[stream]
+
+Stream.PropertyKey: 1
+[stream]
+
+Stream.Status: 1
+[stream]
+
+StreamNetworkServiceTypeValue: 1
+[stream]
+
+StreamSocketSecurityLevel: 1
+[stream]
+
+StreamSOCKSProxyConfiguration: 1
+[stream]
+
+StreamSOCKSProxyVersion: 1
+[stream]
+
+SystemRandomNumberGenerator: 1
+[system]
+
+UnsafeMutableRawBufferPointer: 1
+[byte]
+
+UnsafeMutableRawPointer: 1
+[byte]
+
+UnsafeRawBufferPointer: 1
+[byte]
+
+UnsafeRawPointer: 1
+[byte]
+
+URL: 1
+[file]
+
+URLFileProtection: 1
+[file]
+
+URLFileResourceType: 1
+[file]
+
+UserDefaults: 1
+[file]
+

@@ -1,0 +1,1131 @@
+FileManager.DirectoryEnumerator: 3
+[pathnam, file, directori]
+
+FileManager: 3
+[file, directori, object]
+
+Bundle: 2
+[file, object]
+
+FileHandle: 2
+[file, object]
+
+FileManager.DirectoryEnumerationOptions: 2
+[file, directori]
+
+FileManager.SearchPathDirectory: 2
+[file, directori]
+
+FileManager.UnmountOptions: 2
+[pathnam, file]
+
+FileManager.URLRelationship: 2
+[pathnam, file]
+
+FileManager.VolumeEnumerationOptions: 2
+[pathnam, file]
+
+FileWrapper: 2
+[file, system]
+
+FileWrapper.ReadingOptions: 2
+[file, directori]
+
+FileWrapper.WritingOptions: 2
+[pathnam, file]
+
+Host: 2
+[object, name]
+
+NSArchiver: 2
+[file, object]
+
+NSCharacterSet: 2
+[object, class]
+
+NSClassDescription: 2
+[object, class]
+
+NSCoder: 2
+[object, class]
+
+NSData: 2
+[file, directori]
+
+NSDate: 2
+[object, absolut]
+
+NSDictionary: 2
+[object, class]
+
+NSDistributedLock: 2
+[file, system]
+
+NSExceptionName: 2
+[pathnam, name]
+
+NSFileAccessIntent: 2
+[file, class]
+
+NSFileCoordinator: 2
+[file, object]
+
+NSFileCoordinator.ReadingOptions: 2
+[pathnam, file]
+
+NSFileVersion.AddingOptions: 2
+[pathnam, file]
+
+NSFileVersion.ReplacingOptions: 2
+[pathnam, file]
+
+NSItemProviderFileOptions: 2
+[pathnam, file]
+
+NSMutableArray: 2
+[object, class]
+
+NSNameSpecifier: 2
+[object, name]
+
+NSNotification: 2
+[object, name]
+
+NSObject: 2
+[pathnam, object]
+
+NSPersonNameComponents: 2
+[may, name]
+
+NSScriptCoercionHandler: 2
+[object, class]
+
+NSString: 2
+[object, class]
+
+NSTimeZone.NameStyle: 2
+[pathnam, name]
+
+NSURLComponents: 2
+[object, class]
+
+NSValue: 2
+[object, class]
+
+NSValueTransformerName: 2
+[pathnam, name]
+
+OperatingSystemVersion: 2
+[pathnam, system]
+
+PersonNameComponents: 2
+[pathnam, name]
+
+PersonNameComponentsFormatter.Options: 2
+[pathnam, name]
+
+PersonNameComponentsFormatter.Style: 2
+[pathnam, name]
+
+Progress.FileOperationKind: 2
+[pathnam, file]
+
+Scanner: 2
+[object, class]
+
+URLFileProtection: 2
+[pathnam, file]
+
+URLFileResourceType: 2
+[pathnam, file]
+
+URLResourceValues: 2
+[file, system]
+
+AffineTransform: 1
+[pathnam]
+
+AnyIndex: 1
+[pathnam]
+
+AnyKeyPath: 1
+[pathnam]
+
+AnySequence: 1
+[pathnam]
+
+ByteCountFormatter.CountStyle: 1
+[pathnam]
+
+ByteCountFormatter: 1
+[pathnam]
+
+CachedURLResponse: 1
+[object]
+
+Calendar.Identifier: 1
+[pathnam]
+
+Calendar: 1
+[absolut]
+
+Calendar.MatchingPolicy: 1
+[pathnam]
+
+Calendar.RepeatedTimePolicy: 1
+[pathnam]
+
+Calendar.SearchDirection: 1
+[pathnam]
+
+Character.UnicodeScalarView.Index: 1
+[pathnam]
+
+Character.UnicodeScalarView.Iterator: 1
+[pathnam]
+
+Character.UnicodeScalarView: 1
+[pathnam]
+
+ClosedRange.Index: 1
+[pathnam]
+
+CocoaError.Code: 1
+[pathnam]
+
+CocoaError: 1
+[pathnam]
+
+CodingKey: 1
+[pathnam]
+
+CodingUserInfoKey: 1
+[pathnam]
+
+CommandLine: 1
+[pathnam]
+
+CVaListPointer: 1
+[pathnam]
+
+Data.Deallocator: 1
+[pathnam]
+
+Data.Iterator: 1
+[pathnam]
+
+DateComponentsFormatter: 1
+[class]
+
+DateFormatter.Behavior: 1
+[pathnam]
+
+DateIntervalFormatter.Style: 1
+[pathnam]
+
+Decimal: 1
+[pathnam]
+
+Decodable: 1
+[pathnam]
+
+Decoder: 1
+[pathnam]
+
+DecodingError.Context: 1
+[pathnam]
+
+DecodingError: 1
+[pathnam]
+
+DefaultIndices: 1
+[pathnam]
+
+Dictionary.Keys: 1
+[pathnam]
+
+Dictionary.Values: 1
+[pathnam]
+
+DictionaryIterator: 1
+[pathnam]
+
+DistributedNotificationCenter.CenterType: 1
+[pathnam]
+
+DistributedNotificationCenter: 1
+[object]
+
+DistributedNotificationCenter.Options: 1
+[pathnam]
+
+DistributedNotificationCenter.SuspensionBehavior: 1
+[pathnam]
+
+Double: 1
+[pathnam]
+
+EmptyCollection.Iterator: 1
+[pathnam]
+
+EmptyCollection: 1
+[pathnam]
+
+Encodable: 1
+[pathnam]
+
+Encoder: 1
+[pathnam]
+
+EncodingError.Context: 1
+[pathnam]
+
+EncodingError: 1
+[pathnam]
+
+EnergyFormatter.Unit: 1
+[pathnam]
+
+FileAttributeKey: 1
+[file]
+
+FileAttributeType: 1
+[file]
+
+FileManager.ItemReplacementOptions: 1
+[file]
+
+FileManager.SearchPathDomainMask: 1
+[file]
+
+FileProtectionType: 1
+[file]
+
+FlattenCollection.Index: 1
+[pathnam]
+
+FlattenSequence.Iterator: 1
+[pathnam]
+
+Float: 1
+[pathnam]
+
+Float80: 1
+[pathnam]
+
+FloatingPointClassification: 1
+[pathnam]
+
+FloatingPointRoundingRule: 1
+[pathnam]
+
+FloatingPointSign: 1
+[pathnam]
+
+HTTPCookie.AcceptPolicy: 1
+[pathnam]
+
+HTTPCookiePropertyKey: 1
+[pathnam]
+
+HTTPURLResponse: 1
+[class]
+
+IndexSet.Index: 1
+[pathnam]
+
+Int: 1
+[pathnam]
+
+Int.Words: 1
+[pathnam]
+
+Int16: 1
+[pathnam]
+
+Int16.Words: 1
+[pathnam]
+
+Int32: 1
+[pathnam]
+
+Int32.Words: 1
+[pathnam]
+
+Int64: 1
+[pathnam]
+
+Int64.Words: 1
+[pathnam]
+
+Int8: 1
+[pathnam]
+
+Int8.Words: 1
+[pathnam]
+
+ISO8601DateFormatter: 1
+[class]
+
+ISO8601DateFormatter.Options: 1
+[pathnam]
+
+IteratorOverOne: 1
+[pathnam]
+
+JoinedSequence.Iterator: 1
+[pathnam]
+
+JoinedSequence: 1
+[pathnam]
+
+JSONDecoder.DataDecodingStrategy: 1
+[pathnam]
+
+JSONDecoder.DateDecodingStrategy: 1
+[pathnam]
+
+JSONDecoder.KeyDecodingStrategy: 1
+[may]
+
+JSONEncoder.DataEncodingStrategy: 1
+[pathnam]
+
+JSONEncoder.DateEncodingStrategy: 1
+[pathnam]
+
+JSONEncoder.KeyEncodingStrategy: 1
+[may]
+
+JSONEncoder.OutputFormatting: 1
+[pathnam]
+
+JSONSerialization: 1
+[object]
+
+JSONSerialization.ReadingOptions: 1
+[pathnam]
+
+JSONSerialization.WritingOptions: 1
+[pathnam]
+
+KeyedDecodingContainer: 1
+[pathnam]
+
+KeyedEncodingContainer: 1
+[pathnam]
+
+KeyPath: 1
+[pathnam]
+
+LazyDropWhileCollection.Index: 1
+[pathnam]
+
+LazyDropWhileCollection: 1
+[may]
+
+LazyDropWhileSequence: 1
+[pathnam]
+
+LazyFilterCollection: 1
+[may]
+
+LazyFilterSequence: 1
+[pathnam]
+
+LazyMapCollection: 1
+[pathnam]
+
+LazyMapSequence.Iterator: 1
+[pathnam]
+
+LazyMapSequence: 1
+[pathnam]
+
+LazyPrefixWhileCollection.Index: 1
+[pathnam]
+
+LazyPrefixWhileCollection: 1
+[may]
+
+LazyPrefixWhileSequence: 1
+[pathnam]
+
+LazySequence: 1
+[pathnam]
+
+LengthFormatter.Unit: 1
+[pathnam]
+
+MachError: 1
+[pathnam]
+
+ManagedBufferPointer: 1
+[class]
+
+MassFormatter.Unit: 1
+[pathnam]
+
+MeasurementFormatter.UnitOptions: 1
+[pathnam]
+
+Mirror.AncestorRepresentation: 1
+[class]
+
+NetService.ErrorCode: 1
+[pathnam]
+
+NetService.Options: 1
+[pathnam]
+
+Notification: 1
+[pathnam]
+
+NotificationCenter: 1
+[object]
+
+NSAppleEventDescriptor.SendOptions: 1
+[pathnam]
+
+NSArray: 1
+[object]
+
+NSAttributedString.DocumentAttributeKey: 1
+[pathnam]
+
+NSAttributedString.EnumerationOptions: 1
+[pathnam]
+
+NSAttributedString.Key: 1
+[pathnam]
+
+NSAttributedString.SpellingState: 1
+[pathnam]
+
+NSAttributedString.TextEffectStyle: 1
+[pathnam]
+
+NSAttributedString.TextLayoutSectionKey: 1
+[pathnam]
+
+NSBackgroundActivityScheduler.Result: 1
+[pathnam]
+
+NSBinarySearchingOptions: 1
+[pathnam]
+
+NSBundleResourceRequest: 1
+[system]
+
+NSCache: 1
+[object]
+
+NSCalendar.Options: 1
+[pathnam]
+
+NSCloneCommand: 1
+[object]
+
+NSCoder.DecodingFailurePolicy: 1
+[pathnam]
+
+NSComparisonPredicate.Modifier: 1
+[pathnam]
+
+NSComparisonPredicate.Operator: 1
+[pathnam]
+
+NSComparisonPredicate.Options: 1
+[pathnam]
+
+NSCompoundPredicate.LogicalType: 1
+[pathnam]
+
+NSCondition: 1
+[object]
+
+NSCountedSet: 1
+[object]
+
+NSCreateCommand: 1
+[object]
+
+NSData.Base64DecodingOptions: 1
+[pathnam]
+
+NSData.Base64EncodingOptions: 1
+[pathnam]
+
+NSData.ReadingOptions: 1
+[pathnam]
+
+NSData.SearchOptions: 1
+[pathnam]
+
+NSData.WritingOptions: 1
+[pathnam]
+
+NSDecimalNumber.CalculationError: 1
+[pathnam]
+
+NSDeleteCommand: 1
+[object]
+
+NSDictionary.Iterator: 1
+[pathnam]
+
+NSEnumerationOptions: 1
+[pathnam]
+
+NSEnumerator: 1
+[object]
+
+NSError.UserInfoKey: 1
+[pathnam]
+
+NSExpression.ExpressionType: 1
+[pathnam]
+
+NSExtensionItem: 1
+[pathnam]
+
+NSFastEnumerationIterator: 1
+[pathnam]
+
+NSFileCoordinator.WritingOptions: 1
+[file]
+
+NSFileProviderService: 1
+[file]
+
+NSFileProviderServiceName: 1
+[name]
+
+NSFileSecurity: 1
+[file]
+
+NSFileVersion: 1
+[file]
+
+NSHashEnumerator: 1
+[pathnam]
+
+NSHashTable: 1
+[may]
+
+NSIndexSpecifier: 1
+[object]
+
+NSItemProvider.ErrorCode: 1
+[pathnam]
+
+NSItemProvider.PreferredPresentationStyle: 1
+[pathnam]
+
+NSItemProviderRepresentationVisibility: 1
+[pathnam]
+
+NSKeyedArchiver: 1
+[object]
+
+NSKeyedUnarchiver: 1
+[object]
+
+NSKeyValueObservation: 1
+[pathnam]
+
+NSKeyValueObservedChange: 1
+[pathnam]
+
+NSKeyValueOperator: 1
+[pathnam]
+
+NSLinguisticTagger.Options: 1
+[pathnam]
+
+NSLock: 1
+[class]
+
+NSLogicalTest: 1
+[object]
+
+NSMachPort.Options: 1
+[pathnam]
+
+NSMapTable: 1
+[may]
+
+NSMeasurement: 1
+[object]
+
+NSMetadataItem: 1
+[name]
+
+NSMetadataQueryAttributeValueTuple: 1
+[name]
+
+NSMetadataQueryResultGroup: 1
+[pathnam]
+
+NSMoveCommand: 1
+[object]
+
+NSMutableAttributedString: 1
+[class]
+
+NSMutableData: 1
+[object]
+
+NSMutableOrderedSet: 1
+[object]
+
+NSMutableSet: 1
+[class]
+
+NSMutableURLRequest: 1
+[class]
+
+NSNotification.Name: 1
+[name]
+
+NSPointerFunctions: 1
+[object]
+
+NSPositionalSpecifier.InsertionPosition: 1
+[pathnam]
+
+NSPositionalSpecifier: 1
+[object]
+
+NSProtocolChecker: 1
+[object]
+
+NSRangeSpecifier: 1
+[object]
+
+NSRegularExpression.MatchingFlags: 1
+[pathnam]
+
+NSRegularExpression.MatchingOptions: 1
+[pathnam]
+
+NSRegularExpression.Options: 1
+[pathnam]
+
+NSRelativeSpecifier: 1
+[pathnam]
+
+NSRelativeSpecifier.RelativePosition: 1
+[pathnam]
+
+NSSaveOptions: 1
+[pathnam]
+
+NSScriptClassDescription: 1
+[class]
+
+NSScriptExecutionContext: 1
+[object]
+
+NSScriptObjectSpecifier: 1
+[object]
+
+NSScriptWhoseTest: 1
+[object]
+
+NSSet: 1
+[object]
+
+NSSortDescriptor: 1
+[object]
+
+NSSortOptions: 1
+[pathnam]
+
+NSSpecifierTest: 1
+[object]
+
+NSSpecifierTest.TestComparisonOperation: 1
+[pathnam]
+
+NSString.DrawingOptions: 1
+[pathnam]
+
+NSTextCheckingKey: 1
+[pathnam]
+
+NSTextCheckingResult.CheckingType: 1
+[pathnam]
+
+NSTimeZone: 1
+[system]
+
+NSUniqueIDSpecifier: 1
+[object]
+
+NSURL: 1
+[file]
+
+NSURLHandle.Status: 1
+[pathnam]
+
+NSURLRequest.CachePolicy: 1
+[pathnam]
+
+NSURLRequest.NetworkServiceType: 1
+[system]
+
+NSUserActivity: 1
+[object]
+
+NSUserAppleScriptTask: 1
+[class]
+
+NSUserAutomatorTask: 1
+[class]
+
+NSUserNotification.ActivationType: 1
+[pathnam]
+
+NSUserNotification: 1
+[object]
+
+NSUserUnixTask: 1
+[class]
+
+NSWhoseSpecifier: 1
+[object]
+
+NSXPCConnection: 1
+[class]
+
+NSXPCConnection.Options: 1
+[pathnam]
+
+NSXPCInterface: 1
+[object]
+
+NSXPCListener: 1
+[object]
+
+NumberFormatter.Behavior: 1
+[pathnam]
+
+NumberFormatter.PadPosition: 1
+[pathnam]
+
+NumberFormatter.RoundingMode: 1
+[pathnam]
+
+OperationQueue: 1
+[object]
+
+PartialKeyPath: 1
+[pathnam]
+
+PartialRangeFrom.Iterator: 1
+[pathnam]
+
+PersonNameComponentsFormatter: 1
+[name]
+
+Port: 1
+[object]
+
+PortMessage: 1
+[object]
+
+POSIXError: 1
+[pathnam]
+
+Process.TerminationReason: 1
+[pathnam]
+
+ProcessInfo: 1
+[system]
+
+ProcessInfo.ThermalState: 1
+[pathnam]
+
+Progress: 1
+[object]
+
+ProgressKind: 1
+[pathnam]
+
+ProgressUserInfoKey: 1
+[pathnam]
+
+PropertyListDecoder: 1
+[pathnam]
+
+PropertyListEncoder: 1
+[pathnam]
+
+PropertyListSerialization.MutabilityOptions: 1
+[pathnam]
+
+PropertyListSerialization.PropertyListFormat: 1
+[pathnam]
+
+QualityOfService: 1
+[pathnam]
+
+ReferenceWritableKeyPath: 1
+[pathnam]
+
+Repeated: 1
+[name]
+
+ReversedCollection.Index: 1
+[pathnam]
+
+ReversedCollection.Iterator: 1
+[pathnam]
+
+RunLoop: 1
+[object]
+
+RunLoop.Mode: 1
+[pathnam]
+
+Set.Index: 1
+[pathnam]
+
+SetIterator: 1
+[pathnam]
+
+SignedInteger: 1
+[pathnam]
+
+SingleValueDecodingContainer: 1
+[pathnam]
+
+SingleValueEncodingContainer: 1
+[pathnam]
+
+SocketPort: 1
+[class]
+
+Stream.Event: 1
+[pathnam]
+
+Stream: 1
+[object]
+
+Stream.PropertyKey: 1
+[pathnam]
+
+Stream.Status: 1
+[pathnam]
+
+StreamNetworkServiceTypeValue: 1
+[pathnam]
+
+StreamSOCKSProxyConfiguration: 1
+[pathnam]
+
+StrideThroughIterator: 1
+[pathnam]
+
+StrideToIterator: 1
+[pathnam]
+
+String.Encoding: 1
+[pathnam]
+
+String.Index: 1
+[pathnam]
+
+String.UnicodeScalarView.Iterator: 1
+[pathnam]
+
+String.UTF16View.Indices: 1
+[pathnam]
+
+String.UTF8View.Iterator: 1
+[pathnam]
+
+StringEncodingDetectionOptionsKey: 1
+[pathnam]
+
+StringTransform: 1
+[pathnam]
+
+Substring.UnicodeScalarView: 1
+[pathnam]
+
+Substring.UTF16View: 1
+[pathnam]
+
+Substring.UTF8View: 1
+[pathnam]
+
+SystemRandomNumberGenerator: 1
+[system]
+
+TimeZone: 1
+[name]
+
+UInt.Words: 1
+[pathnam]
+
+UInt16: 1
+[pathnam]
+
+UInt16.Words: 1
+[pathnam]
+
+UInt32: 1
+[pathnam]
+
+UInt32.Words: 1
+[pathnam]
+
+UInt64: 1
+[pathnam]
+
+UInt64.Words: 1
+[pathnam]
+
+UInt8: 1
+[pathnam]
+
+UInt8.Words: 1
+[pathnam]
+
+Unicode.ASCII: 1
+[pathnam]
+
+Unicode.ASCII.Parser: 1
+[pathnam]
+
+Unicode: 1
+[pathnam]
+
+Unicode.ParseResult: 1
+[pathnam]
+
+Unicode.Scalar.UTF16View: 1
+[pathnam]
+
+Unicode.UTF16.ForwardParser: 1
+[pathnam]
+
+Unicode.UTF16: 1
+[pathnam]
+
+Unicode.UTF16.ReverseParser: 1
+[pathnam]
+
+Unicode.UTF32: 1
+[pathnam]
+
+Unicode.UTF32.Parser: 1
+[pathnam]
+
+Unicode.UTF8.ForwardParser: 1
+[pathnam]
+
+Unicode.UTF8: 1
+[pathnam]
+
+Unicode.UTF8.ReverseParser: 1
+[pathnam]
+
+Unmanaged: 1
+[object]
+
+UnsafeBufferPointer.Iterator: 1
+[pathnam]
+
+UnsafeRawBufferPointer.Iterator: 1
+[pathnam]
+
+UnsignedInteger: 1
+[pathnam]
+
+URL: 1
+[file]
+
+URLCache.StoragePolicy: 1
+[pathnam]
+
+URLError.Code: 1
+[pathnam]
+
+URLError: 1
+[object]
+
+URLProtocol: 1
+[class]
+
+URLQueryItem: 1
+[pathnam]
+
+URLSession: 1
+[object]
+
+URLSessionConfiguration: 1
+[object]
+
+URLSessionConfiguration.MultipathServiceType: 1
+[pathnam]
+
+URLSessionTask.State: 1
+[pathnam]
+
+URLThumbnailDictionaryItem: 1
+[pathnam]
+
+URLUbiquitousSharedItemPermissions: 1
+[pathnam]
+
+URLUbiquitousSharedItemRole: 1
+[pathnam]
+
+UserDefaults: 1
+[file]
+
+UUID: 1
+[pathnam]
+
+ValueTransformer: 1
+[object]
+
+WritableKeyPath: 1
+[pathnam]
+
+XMLDocument.ContentKind: 1
+[pathnam]
+
+XMLDocument: 1
+[object]
+
+XMLDTD: 1
+[object]
+
+XMLDTDNode.DTDKind: 1
+[pathnam]
+
+XMLDTDNode: 1
+[object]
+
+XMLNode: 1
+[class]
+
+XMLNode.Kind: 1
+[pathnam]
+
+XMLParser.ErrorCode: 1
+[pathnam]
+
+XMLParser.ExternalEntityResolvingPolicy: 1
+[pathnam]
+
+Zip2Sequence.Iterator: 1
+[pathnam]
+
+_AppendKeyPath: 1
+[pathnam]
+

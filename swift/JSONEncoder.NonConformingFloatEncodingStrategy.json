@@ -1,0 +1,1 @@
+{"package_name": "foundation", "interface_list": [], "class_inherit_list": [], "Methods": [], "Vars": [], "subclass_list": [], "class_description": "Exceptional values are defined by the IEEE 754 floating-point specification and include infinity and nan.\n", "class_name": "JSONEncoder.NonConformingFloatEncodingStrategy"}

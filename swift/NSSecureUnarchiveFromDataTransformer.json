@@ -1,0 +1,1 @@
+{"package_name": "foundation", "interface_list": ["CVarArg", "Equatable", "Hashable"], "class_inherit_list": ["ValueTransformer"], "Methods": [], "Vars": [{"var_type": "[AnyClass]", "var_description": "", "var_name": "allowedTopLevelClasses"}], "subclass_list": [], "class_description": "", "class_name": "NSSecureUnarchiveFromDataTransformer"}
