@@ -1,0 +1,10 @@
+streamsocksproxyvers: 0.7174322139086449
+proxi: 0.4802021848525725
+version: 0.4013295204575243
+stream: 0.3059926406276627
+fundament: 0.0
+galoi: 0.0
+gallon: 0.0
+gal: 0.0
+gain: 0.0
+fuzzi: 0.0

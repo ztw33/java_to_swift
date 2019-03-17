@@ -1,0 +1,21 @@
+string: 0.7572724681788213
+charact: 0.27562866323489765
+index: 0.2347683610628562
+substr: 0.14672972643002044
+argument: 0.13986628597099676
+specifi: 0.1294447179681389
+charset: 0.1288473081444214
+subarray: 0.1255527310889926
+sequenc: 0.12336671060177008
+length: 0.11483364606586177
+
+String: index string charact sequenc
+Character: argument string charact
+Array: index specifi sequenc
+Data: index specifi sequenc
+ArraySlice: index specifi sequenc
+NSString: string charact
+NSMutableString: string charact
+StringProtocol: string sequenc
+NSAttributedString: string charact
+NSMutableAttributedString: string charact

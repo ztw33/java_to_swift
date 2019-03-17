@@ -1,0 +1,10 @@
+customnserror: 0.805476969136886
+custom: 0.47546904350755775
+error: 0.3537457290993974
+float: 0.0
+gcm: 0.0
+gaussian: 0.0
+gather: 0.0
+garbag: 0.0
+gap: 0.0
+galoi: 0.0

@@ -1,0 +1,21 @@
+char: 0.6552976385021688
+sequenc: 0.35830667909561575
+multilingu: 0.1972394304577172
+bmp: 0.1972394304577172
+charact: 0.18583889859922678
+plane: 0.17961442765293215
+surrog: 0.17394044407760328
+refin: 0.17394044407760328
+uniform: 0.14964417285132753
+contract: 0.14775979208242482
+
+String: charact sequenc
+AnySequence: sequenc
+Zip2Sequence: sequenc
+IteratorSequence: sequenc
+EnumeratedSequence: sequenc
+PrefixSequence: sequenc
+JoinedSequence: sequenc
+DropWhileSequence: sequenc
+LazySequence: sequenc
+DropFirstSequence: sequenc

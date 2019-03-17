@@ -1,0 +1,10 @@
+command: 0.7251258056964719
+line: 0.6886164142053561
+üfoo: 0.0
+gather: 0.0
+garbag: 0.0
+gap: 0.0
+galoi: 0.0
+gallon: 0.0
+gal: 0.0
+gain: 0.0

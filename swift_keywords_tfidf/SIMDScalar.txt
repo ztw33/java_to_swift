@@ -1,0 +1,10 @@
+simd: 0.7896829392192242
+scalar: 0.6135151632242575
+üfoo: 0.0
+functionappli: 0.0
+gap: 0.0
+galoi: 0.0
+gallon: 0.0
+gal: 0.0
+gain: 0.0
+fuzzi: 0.0

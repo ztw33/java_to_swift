@@ -1,0 +1,10 @@
+progress: 0.7465415659139446
+kind: 0.6653387786404423
+üfoo: 0.0
+fundament: 0.0
+garbag: 0.0
+gap: 0.0
+galoi: 0.0
+gallon: 0.0
+gal: 0.0
+gain: 0.0

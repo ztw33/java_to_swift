@@ -1,0 +1,10 @@
+item: 0.6387620954257894
+extens: 0.624500262532935
+ns: 0.44942452930781385
+furthermor: 0.0
+gather: 0.0
+garbag: 0.0
+gap: 0.0
+galoi: 0.0
+gallon: 0.0
+gal: 0.0

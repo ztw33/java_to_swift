@@ -1,0 +1,21 @@
+hashtabl: 0.8062464568293451
+map: 0.42479021322575783
+key: 0.2185525639541401
+valu: 0.14297144772856785
+null: 0.10498617535744045
+entri: 0.10279563358467018
+specifi: 0.09859164047271823
+capac: 0.08522086661398197
+function: 0.06341346834246343
+factor: 0.061359723518242586
+
+NSMapTable: valu specifi key map
+NSUbiquitousKeyValueStore: valu specifi key
+UserDefaults: valu specifi key
+NSObject: valu specifi key
+NSMapTableKeyCallBacks: key map
+NSMapTableValueCallBacks: valu map
+NSKeyValueOperator: valu key
+NSKeyValueChangeKey: valu key
+KeyValuePairs: valu key
+AnyKeyPath: valu key

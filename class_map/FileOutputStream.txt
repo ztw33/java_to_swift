@@ -1,0 +1,21 @@
+file: 0.6910678994347373
+output: 0.44350001650162707
+stream: 0.43270576998603294
+write: 0.22662265101293294
+byte: 0.13594396474594403
+descriptor: 0.13141974168292175
+creat: 0.06691530623382404
+specifi: 0.06284828798515427
+written: 0.05340787506202378
+argument: 0.05144559917452138
+
+OutputStream: output stream write
+NSFileVersion: creat file specifi
+FileHandle: file write
+NSFileCoordinator: file write
+FileManager: specifi file
+Stream: output stream
+FileAttributeKey: creat file
+FileProtectionType: creat file
+URLFileProtection: creat file
+URLSessionStreamTask: stream write

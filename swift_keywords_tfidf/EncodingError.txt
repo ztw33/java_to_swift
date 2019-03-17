@@ -1,0 +1,10 @@
+encod: 0.7353474891368367
+error: 0.6776902465139584
+üfoo: 0.0
+furthest: 0.0
+gather: 0.0
+garbag: 0.0
+gap: 0.0
+galoi: 0.0
+gallon: 0.0
+gal: 0.0

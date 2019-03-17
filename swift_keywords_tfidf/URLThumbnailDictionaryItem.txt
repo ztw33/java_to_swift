@@ -1,0 +1,10 @@
+thumbnail: 0.7332373730175545
+item: 0.4368493904193663
+dictionari: 0.37340605518465453
+url: 0.3634466712627568
+fundament: 0.0
+garbag: 0.0
+gap: 0.0
+galoi: 0.0
+gallon: 0.0
+gal: 0.0

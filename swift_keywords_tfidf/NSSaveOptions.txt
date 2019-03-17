@@ -1,0 +1,10 @@
+save: 0.7259273097612268
+option: 0.5044424181082953
+ns: 0.4675119118866212
+given: 0.0
+fundament: 0.0
+garbag: 0.0
+gap: 0.0
+galoi: 0.0
+gallon: 0.0
+gal: 0.0

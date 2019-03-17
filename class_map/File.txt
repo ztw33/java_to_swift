@@ -1,0 +1,21 @@
+pathnam: 0.7105997547707111
+file: 0.4789820408447739
+abstract: 0.30065020074312643
+denot: 0.21678074030375172
+directori: 0.20520285397588572
+name: 0.1097918621748032
+parent: 0.08363361903970495
+string: 0.06274356998502789
+system: 0.06200215400612261
+method: 0.05943917326501926
+
+FileWrapper: file directori system
+Bundle: file name pathnam
+FileManager: file directori
+NSFileCoordinator: file directori
+NSFilePresenter: file directori
+NSFileSecurity: file method
+FileAttributeKey: file string
+URLResourceValues: file system
+NSFileProviderServiceName: file name
+NSDistributedLock: file system

@@ -1,0 +1,21 @@
+file: 0.6597962165314714
+input: 0.46806079684510743
+stream: 0.4285076199475844
+byte: 0.17232003104602925
+read: 0.14385777883018522
+descriptor: 0.13882100864857677
+connect: 0.0980894960798227
+system: 0.08177339411284751
+actual: 0.07871838864938469
+skip: 0.07641238202822166
+
+InputStream: input read stream
+FileHandle: file read
+NSFileCoordinator: file read
+Stream: input stream
+FileWrapper: file system
+URLResourceValues: file system
+URLSessionStreamTask: read stream
+NSURLConnectionDownloadDelegate: file connect
+NSDistributedLock: file system
+FileManager: file

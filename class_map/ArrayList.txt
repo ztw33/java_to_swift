@@ -1,0 +1,21 @@
+list: 0.8581715279750484
+array: 0.3641511134995766
+specifi: 0.14734685811717443
+iter: 0.09911670572952233
+index: 0.09424492077848663
+collect: 0.09389971695443247
+contain: 0.08168561676901089
+posit: 0.07835333616347653
+spliter: 0.07024273314741598
+capac: 0.06587793756311433
+
+Array: contain collect array index specifi
+ArraySlice: contain collect array index specifi
+NSArray: array index list specifi
+ContiguousArray: array index collect contain
+IndexingIterator: index collect contain iter
+NSMutableArray: array index specifi
+NSIndexSpecifier: index collect specifi
+NSPositionalSpecifier: specifi posit contain
+CollectionOfOne: index collect contain
+IndexSet: index collect contain

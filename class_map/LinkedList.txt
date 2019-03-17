@@ -1,0 +1,21 @@
+list: 0.8253832333837999
+link: 0.46526685726267647
+remov: 0.11437930884218998
+specifi: 0.10921321923105978
+first: 0.09608844362516948
+last: 0.09025503453390485
+head: 0.0825442610712568
+retriev: 0.06029125050434408
+posit: 0.0601494676982696
+occurr: 0.05534126706427066
+
+PropertyListDecoder: specifi list
+NSPositionalSpecifier: specifi posit
+FileManager: specifi link
+NSArray: specifi list
+NSIndexSpecifier: last specifi
+NSMutableArray: remov specifi
+Data: remov specifi
+Array: remov specifi
+NSMutableOrderedSet: remov specifi
+ArraySlice: remov specifi

@@ -1,0 +1,10 @@
+enumer: 0.6650978305733463
+option: 0.5477045200020053
+ns: 0.5076067715623991
+furthest: 0.0
+gaussian: 0.0
+gather: 0.0
+garbag: 0.0
+gap: 0.0
+galoi: 0.0
+gallon: 0.0

@@ -1,0 +1,21 @@
+string: 0.4574021250663785
+builder: 0.42923628646674034
+sequenc: 0.414939032091353
+charact: 0.37722511564278977
+argument: 0.21239237670563538
+append: 0.17938866363370842
+index: 0.1625242727253972
+char: 0.14324757007640837
+erro: 0.1362088005340274
+insert: 0.1322024471496143
+
+String: index string charact sequenc
+Character: argument string charact
+NSMutableString: string charact insert
+NSString: string charact
+IndexingIterator: index sequenc
+StringProtocol: string sequenc
+NSAttributedString: string charact
+NSMutableAttributedString: string charact
+IndexSet: index sequenc
+IndexPath: index sequenc

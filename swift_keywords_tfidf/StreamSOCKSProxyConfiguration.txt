@@ -1,0 +1,10 @@
+streamsocksproxyconfigur: 0.7151433067764746
+proxi: 0.4786701401736689
+configur: 0.40793375115814384
+stream: 0.30501639684609555
+üfoo: 0.0
+galoi: 0.0
+gallon: 0.0
+gal: 0.0
+gain: 0.0
+fuzzi: 0.0

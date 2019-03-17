@@ -1,0 +1,10 @@
+sort: 0.6367548542227791
+option: 0.5655346194217291
+ns: 0.5241315196200734
+üfoo: 0.0
+furthermor: 0.0
+gather: 0.0
+garbag: 0.0
+gap: 0.0
+galoi: 0.0
+gallon: 0.0

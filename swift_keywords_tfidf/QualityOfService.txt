@@ -1,0 +1,10 @@
+qualiti: 0.8652238122504589
+servic: 0.5013858341784126
+üfoo: 0.0
+furthermor: 0.0
+garbag: 0.0
+gap: 0.0
+galoi: 0.0
+gallon: 0.0
+gal: 0.0
+gain: 0.0

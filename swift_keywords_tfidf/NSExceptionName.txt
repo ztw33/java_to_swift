@@ -1,0 +1,10 @@
+ns: 0.635657592787719
+name: 0.602916831513784
+except: 0.4821106916556631
+üfoo: 0.0
+furthermor: 0.0
+gather: 0.0
+garbag: 0.0
+gap: 0.0
+galoi: 0.0
+gallon: 0.0

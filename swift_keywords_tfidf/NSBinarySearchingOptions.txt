@@ -1,0 +1,10 @@
+binari: 0.5995193969733638
+search: 0.579209263899746
+option: 0.4051199917122339
+ns: 0.37546093482609927
+friday: 0.0
+furthermor: 0.0
+garbag: 0.0
+gap: 0.0
+galoi: 0.0
+gallon: 0.0

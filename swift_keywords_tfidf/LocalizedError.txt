@@ -1,0 +1,10 @@
+local: 0.7484757717988056
+error: 0.6631621363061843
+üfoo: 0.0
+furthermor: 0.0
+gather: 0.0
+garbag: 0.0
+gap: 0.0
+galoi: 0.0
+gallon: 0.0
+gal: 0.0

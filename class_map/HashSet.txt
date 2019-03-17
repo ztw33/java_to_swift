@@ -1,0 +1,21 @@
+hash: 0.596826987361526
+set: 0.5718675606595791
+capac: 0.1652838217331632
+back: 0.15397849188644108
+factor: 0.15232730677793252
+map: 0.14380283429672705
+spliter: 0.14098786711365652
+contain: 0.11955086930145656
+load: 0.11884195374087299
+specifi: 0.1147296696858464
+
+Set: set contain
+NSHashTableCallBacks: hash back
+IndexSet: set contain
+NSMutableOrderedSet: specifi set
+NSIndexSet: set contain
+NSMutableCharacterSet: set contain
+NSMapTableValueCallBacks: back map
+NSMapTableKeyCallBacks: back map
+NSMapTable: specifi map
+NSRangeSpecifier: specifi contain

@@ -1,0 +1,21 @@
+string: 0.471144043131695
+sequenc: 0.4322075199623652
+charact: 0.38855824320661664
+buffer: 0.354577443126479
+argument: 0.22306304112514994
+append: 0.1724595695305037
+index: 0.16740705554826552
+char: 0.16160371175637267
+erro: 0.140300976923549
+insert: 0.13072728867365252
+
+String: index string charact sequenc
+Character: argument string charact
+NSMutableString: string charact insert
+UnsafeRawBufferPointer: index sequenc buffer
+Data: index sequenc buffer
+NSString: string charact
+IndexingIterator: index sequenc
+StringProtocol: string sequenc
+UnsafeBufferPointer: sequenc buffer
+NSAttributedString: string charact
